@@ -1,6 +1,6 @@
 # Meganath's Portfolio
 
-Vanakkam! 👋 Welcome to my portfolio! I am a **Java Developer** and **Power BI Analyst** with a keen interest in building robust software solutions and transforming raw data into actionable insights.
+ Welcome to my portfolio! I am a **Java Developer** and **Power BI Analyst** with a keen interest in building robust software solutions and transforming raw data into actionable insights.
 
 ## 🚀 About Me
 - 🎓 Final year B.Tech student at **Nandha College of Technology**
@@ -12,7 +12,7 @@ Vanakkam! 👋 Welcome to my portfolio! I am a **Java Developer** and **Power BI
 ## 📂 Portfolio Overview
 ### 1️⃣ Java Development Projects
 - **Library Management System** - A Java-based project implementing **OOP concepts** and **MySQL database** integration.
-- **E-Commerce Backend** - A **Spring Boot & REST API** project for an online shopping platform.
+- **E-Commerce Backend** - A **Java and JDBC** project for an online shopping platform.
 
 ### 2️⃣ Power BI Dashboards & Reports
 - **Sales Performance Dashboard** - A Power BI report analyzing **sales trends, revenue, and customer behavior**.
@@ -25,16 +25,15 @@ Vanakkam! 👋 Welcome to my portfolio! I am a **Java Developer** and **Power BI
 ## 🛠️ Tech Stack & Tools
 - **Programming:** Java, Python, SQL
 - **Business Intelligence:** Power BI, Excel
-- **Web Development:** HTML, CSS, JavaScript (Basic)
-- **Databases:** MySQL, PostgreSQL
-- **Frameworks:** Spring Boot, Flask
+- **Web Development:** HTML, CSS, JavaScript
+- **Databases:** MySQL
 - **Version Control:** Git, GitHub
 - **Software Development:** OOP, Data Structures & Algorithms
 - **Machine Learning:** Basic ML models, Data Preprocessing
 
 ## 📫 Let's Connect!
-- 📧 Email: [your email]
-- 💼 LinkedIn: [your LinkedIn profile]
-- 📂 GitHub: [your GitHub profile]
+- 📧 Email: meganathsb17@gmail.com
+- 💼 LinkedIn: in/meganath-sb-441438267
+- 📂 GitHub: https://github.com/Meganath-SB
 
 Thanks for visiting! Feel free to explore my work and connect for collaboration opportunities. 🚀
